@@ -15,6 +15,6 @@ Part 4) Preprocessing...........................................................
  
 4.1 Dimensionality Reduction with PCA.....................................................................................XXX
  
-4.2 Dimensionality Reduction with T-distributed stochastic neighbor embedding (t-SNE) on top of PCA.......................XXX
+4.2 Dimensionality Reduction with T-distributed stochastic neighbor embedding (t-SNE) on top of PCA.......................XXXX
 
 Part 5) Grid Search, Random Search and Bayesian Hyperparameter Search.....................................................XXXX
